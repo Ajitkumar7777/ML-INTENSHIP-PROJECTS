@@ -1,2 +1,2 @@
-# ML-INTENSHIP-PROJECTS
-MACHINE LEARNING INTENSHIP PROJECTS
+# Spam Email Classifier
+ML model to classify spam messages.
